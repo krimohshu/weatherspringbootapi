@@ -1,0 +1,9 @@
+<archetype>
+  <id>weatherapp</id>
+  <sources>
+    <source>src/main/java/com.natwest.App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
